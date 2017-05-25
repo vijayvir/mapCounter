@@ -1,0 +1,6 @@
+framework module Pods_mapCounterIos_Tests {
+  umbrella header "Pods-mapCounterIos_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

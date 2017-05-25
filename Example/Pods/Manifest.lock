@@ -1,0 +1,16 @@
+PODS:
+  - mapCounterIos (0.1.0)
+
+DEPENDENCIES:
+  - mapCounterIos (from `../`)
+
+EXTERNAL SOURCES:
+  mapCounterIos:
+    :path: ../
+
+SPEC CHECKSUMS:
+  mapCounterIos: fef9622187aeb5b74189d805dce6c7f202ab87b6
+
+PODFILE CHECKSUM: 32f4dcd6156e20e1984a42376e12900cd8e89653
+
+COCOAPODS: 1.2.1

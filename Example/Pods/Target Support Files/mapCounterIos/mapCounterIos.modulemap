@@ -1,0 +1,6 @@
+framework module mapCounterIos {
+  umbrella header "mapCounterIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
